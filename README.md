@@ -1,6 +1,8 @@
 # DiffMDD
-The project is the source codes of the paper "Diffmdd: A diffusion-based deep learning framework for mdd diagnosis using eeg" in TNSRE2023.
+The project is the source codes of the paper "Diffmdd: A Diffusion-based Deep Learning Framework for MDD Diagnosis Using EEG" in TNSRE2024.
 Please cite the following bibTex format:
+
+
 @article{wang2024diffmdd,
   title={Diffmdd: A diffusion-based deep learning framework for mdd diagnosis using eeg},
   author={Wang, Yilin and Zhao, Sha and Jiang, Haiteng and Li, Shijian and Luo, Benyan and Li, Tao and Pan, Gang},
